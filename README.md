@@ -63,7 +63,13 @@ If the customer has placed 20 items but they delivered 17 it was not full, even 
 ```
 ---
 ## Business Insights Using Quadratic:
-1. To track monthly on-time performance.
+
+### KIPs
+
+<img width="523" height="295" alt="image" src="https://github.com/user-attachments/assets/678b7fbd-d681-4652-af9e-562b7ab363bc" />
+
+
+## 1. To track monthly on-time performance.
 
 <img width="1288" height="731" alt="image" src="https://github.com/user-attachments/assets/7470b8a9-a6f0-4158-97c2-cf2ee0d7651d" />
 
@@ -75,7 +81,7 @@ If the customer has placed 20 items but they delivered 17 it was not full, even 
 
 ---
 
-2. Show me the top 5 cutomers based on order_value OTIF%, IF%, and OT%, Also add the customer name, customer ID, and city in the table.
+## 2. Show me the top 5 cutomers based on order_value OTIF%, IF%, and OT%, Also add the customer name, customer ID, and city in the table.
 
 <img width="1051" height="215" alt="image" src="https://github.com/user-attachments/assets/beb627f3-bfb5-4bad-89dc-53d592b96c24" />
 
