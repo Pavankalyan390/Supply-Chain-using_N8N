@@ -9,8 +9,6 @@
 
 ## ⚙️ Workflow Overview
 
-## 🔄 Step-by-Step Process
-
 ### 1. 📧 Gmail Trigger  
 - The workflow starts with the **Gmail Trigger node**. When ever we received a emails labeled in inbox it will be triggred, it also be triggred via different menans.
 - It automatically monitors incoming files for supply chain data reports.
