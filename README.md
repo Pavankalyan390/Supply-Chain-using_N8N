@@ -1,10 +1,15 @@
 # 📌 End-to-End Supply Chain Analytics Workflow with N8N, Supabase, and Postgres
 
-- This project demonstrates how to **automate data ingestion** from emails into a **Postgres database hosted on Supabase**, and then how to analyze the **Supply Chain** data using AI-powered tools.  
+## Overview:
+- The core reason for creating this project is to automate the workflow using the N8N tool.
+- AtliQ Mart is an organic food manufacturer that specializes in only a few products but has disrupted the market in the two cities where they operate.
+- Even though they handle very few products, their supply chain is immature.
 
-- The workflow leverages **N8N** (a workflow automation tool) to seamlessly handle the pipeline from **Gmail → CSV Parsing → Postgres → AI Analysis**.
+- They face a classic supply chain issue, as they are unable to maintain optimal inventory levels.
 
-- Overall, this project not only strengthened my technical skills but also gave me a practical understanding of how AI can transform supply chain analytics.
+- To address this, I created reports with the help of AI tools and used N8N automation to migrate the data directly from emails.
+
+
 ---
 
 ## ⚙️ Workflow Overview
@@ -65,6 +70,7 @@ If the customer has placed 20 items but they delivered 17 it was not full, even 
 ## Business Insights Using Quadratic:
 
 ### KIPs
+- This KIPs is more important to the warehouses, managers, ect.
 
 <img width="523" height="295" alt="image" src="https://github.com/user-attachments/assets/678b7fbd-d681-4652-af9e-562b7ab363bc" />
 
@@ -85,14 +91,14 @@ If the customer has placed 20 items but they delivered 17 it was not full, even 
 
 <img width="1051" height="215" alt="image" src="https://github.com/user-attachments/assets/beb627f3-bfb5-4bad-89dc-53d592b96c24" />
 
+---
 
+## End of the project:
+With the help of AI tools and the N8N automation tool, we were able to save a lot of time in the workplace. In this project, I learned how to apply AI tools in the supply chain domain to create reports.
+
+---
 Overall, this project not only strengthened my technical skills but also gave me a practical understanding of how AI can transform supply chain analytics.
---- 
 
-## Tools Used
-- **[N8N](https://n8n.io/)** → Workflow automation (ETL pipeline)   
-- **[Supabase](https://supabase.com/)** → Cloud-hosted Postgres database  
-- **[Quadratic](https://www.quadratichq.com/)** → AI-powered spreadsheet for natural language insights  
 
 ---
 
@@ -102,4 +108,3 @@ Overall, this project not only strengthened my technical skills but also gave me
 - Hands-on experience with **Postgres on the cloud (Supabase)**  
 - Leveraged **AI tools for analytics** without writing complex SQL  
 - Derived **real-world supply chain insights** from raw data.
-
